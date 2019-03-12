@@ -1,0 +1,40 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+project/target/config-classes/$2b904bd4b9fc6efeef5b.cache
+project/target/config-classes/$82c30e5c9e702acc9a32.cache
+project/target/config-classes/$9017b6bde5f63c9aca54.cache
+project/target/config-classes/$c59c097cf099f99655c6.cache
+project/target/scala-2.12/
+project/target/streams/$global/dependencyPositions/
+project/target/streams/$global/update/$global/streams/update_cache_2.12/
+project/target/streams/compile/$global/
+project/target/streams/compile/compileIncSetup/
+project/target/streams/compile/compileIncremental/$global/streams/export
+project/target/streams/compile/copyResources/$global/streams/copy-resources
+project/target/streams/compile/dependencyClasspath/
+project/target/streams/compile/exportedProducts/
+project/target/streams/compile/externalDependencyClasspath/
+project/target/streams/compile/internalDependencyClasspath/
+project/target/streams/compile/managedClasspath/
+project/target/streams/compile/unmanagedClasspath/
+project/target/streams/compile/unmanagedJars/
+project/target/streams/runtime/
+target/.history
+target/scala-2.12/classes/META-INF/
+target/scala-2.12/resolution-cache/
+target/scala-2.12/test-classes/
+target/streams/$global/dependencyPositions/
+target/streams/$global/update/$global/streams/update_cache_2.12/
+target/streams/compile/
+target/streams/runtime/
+target/streams/test/
